@@ -1,0 +1,11 @@
+###
+POST http://localhost:8080/acteurs
+Content-Type: application/json
+
+{
+  "nom": "Besson",
+  "prenom": "Luc",
+  "dateNaissance": "1959-03-18",
+
+}
+
